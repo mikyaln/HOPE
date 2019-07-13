@@ -7843,14 +7843,11 @@ textarea.form-control {
     .featured-donate.overlay-color:before, .featured-donate.overlay-color-2:before, .featured-section.overlay-color:before, .featured-section.overlay-color-2:before {
       position: absolute;
       content: "";
-      background: #28a745;
       left: 0;
       top: 0;
       right: 0;
       bottom: 0;
       opacity: .9; }
-  .featured-donate.overlay-color-2:before, .featured-section.overlay-color-2:before {
-    background: #79ccab; }
 
 .custom-progress {
   background-color: #fff;
